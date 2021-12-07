@@ -14,7 +14,7 @@
    <string>pyQTClient</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QPushButton" name="pushButton">
+   <widget class="QPushButton" name="pushButton1">
     <property name="geometry">
      <rect>
       <x>400</x>
